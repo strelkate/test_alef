@@ -1,0 +1,58 @@
+<svg width="0" height="0" class="hidden">
+    <symbol fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 17" id="cart">
+        <path d="M1.25468 7.56595C1.13958 6.11201 2.2884 4.86865 3.74689 4.86865H12.2531C13.7116 4.86865 14.8604 6.11201 14.7453 7.56595L14.2203 14.1975C14.1174 15.4977 13.0323 16.5002 11.7281 16.5002H4.27189C2.96769 16.5002 1.88261 15.4977 1.77968 14.1975L1.25468 7.56595Z"></path>
+        <path d="M3.99999 9.5C3.99999 9.5 3.78329 1 8.00001 1C12.2167 1 12 9.5 12 9.5"></path>
+    </symbol>
+    <symbol fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 18" id="clock">
+        <circle cx="9" cy="9" r="7" fill="white" stroke="#333333"></circle>
+        <path d="M8.55453 4.5L8.55453 9.70613L12.5 12" stroke="#333333"></path>
+    </symbol>
+    <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" id="favorite">
+        <path d="M7.90002 3.0948C6.69981 -2.52108 -2.59119 1.90389 1.76037 7.60175C6.11193 13.2996 8.40002 15.4908 8.40002 15.4908"></path>
+        <path d="M7.89415 3.0948C9.09435 -2.52108 18.7304 1.90389 14.3789 7.60175C10.0273 13.2996 7.70001 15.5 7.70001 15.5"></path>
+        <path d="M7.39099 2.70752L8.4043 2.70757L8.38337 3.24079H7.39099V2.70752Z" ></path>
+    </symbol>
+    <symbol fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10 10" id="close">
+        <path d="M0.700012 9.06641L9.05007 0.88337" stroke="#C4C4C4"></path>
+        <path d="M9.25165 9.06641L0.901606 0.883353" stroke="#C4C4C4"></path>
+    </symbol>
+    <symbol fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 14 10" id="card">
+        <rect x="0.5" y="0.5" width="13" height="9" rx="0.5" stroke="#333333"></rect>
+        <rect x="1" y="3" width="12" height="2" fill="#333333"></rect>
+    </symbol>
+    <symbol fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" id="profile">
+        <circle cx="8.45945" cy="4.18919" r="3.68919"></circle>
+        <path d="M0.5 15.3379H15.5"></path>
+        <path d="M0.5 15.84C0.5 12.4347 4.84699 9.91339 8.21429 10.0023C11.4328 10.0872 15.5 12.4347 15.5 15.84"></path>
+    </symbol>
+    <symbol fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" id="description">
+        <circle cx="8" cy="8" r="7" stroke="#333333"></circle>
+        <path d="M4 6C4.24928 6 6.75787 4.5 6.75787 4.5H8.00429H9.25071C9.25071 4.5 11.7507 6 12 6"
+              stroke="#333333"></path>
+        <path d="M4.01577 5.39283L4.01576 7.17806L5.76075 7.4756L5.76075 11.9386" stroke="#333333"></path>
+        <path d="M11.9842 5.39283L11.9842 7.17806L10.2393 7.4756L10.2478 11.9386" stroke="#333333"></path>
+        <line x1="5.51145" y1="11.4385" x2="10.4971" y2="11.4385" stroke="#333333"></line>
+        <path d="M6.50859 4.5C6.50859 4.5 7.00716 6.28522 8.00429 6.28522C9.00142 6.28522 9.49999 4.5 9.49999 4.5"
+              stroke="#333333"></path>
+    </symbol>
+    <symbol  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10 10" id="star-outline">
+        <path d="M5 2.565L5.485 3.71L5.72 4.265L6.32 4.315L7.555 4.42L6.615 5.235L6.16 5.63L6.295 6.22L6.575 7.425L5.515 6.785L5 6.465L4.485 6.775L3.425 7.415L3.705 6.21L3.84 5.62L3.385 5.225L2.445 4.41L3.68 4.305L4.28 4.255L4.515 3.7L5 2.565ZM5 0L3.595 3.315L0 3.62L2.73 5.985L1.91 9.5L5 7.635L8.09 9.5L7.27 5.985L10 3.62L6.405 3.315L5 0Z"
+              fill="#333333"></path>
+    </symbol>
+    <symbol  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10 10" id="star">
+        <path d="M5 7.635L8.09 9.5L7.27 5.985L10 3.62L6.405 3.315L5 0L3.595 3.315L0 3.62L2.73 5.985L1.91 9.5L5 7.635Z" ></path>
+    </symbol>
+
+    <symbol fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10 15" id="arrow">
+        <path d="M1 1L9 8L1 14.5" stroke="#333333"></path>
+    </symbol>
+    <symbol fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" id="slider">
+        <rect x="0.5" y="2.5" width="13" height="13" rx="1.5" stroke="white"></rect>
+        <path d="M2.33784 2.63126L2.33784 2.49958C2.33784 1.39501 3.23327 0.499584 4.33784 0.499585L13.5 0.49959C14.6045 0.49959 15.5 1.39502 15.5 2.49959L15.5 11.9382C15.5 12.9853 14.5159 13.7537 13.5 13.4997V13.4997" stroke="white"></path>
+    </symbol>
+    <symbol fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 13" id="menu">
+        <line y1="0.5" x2="18" y2="0.5" ></line>
+        <line y1="12.5" x2="18" y2="12.5" ></line>
+        <line y1="6.5" x2="18" y2="6.5" ></line>
+    </symbol>
+</svg>
